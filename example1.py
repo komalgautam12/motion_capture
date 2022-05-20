@@ -11,7 +11,7 @@ from PyQt5.QtCore import Qt
 class Window(QtWidgets.QMainWindow):
     def __init__(self):
         QtWidgets.QWidget.__init__(self)
-        uic.loadUi("C:\\Users\\samsa\\OneDrive\\Documents\\GitHub\\motion_capture\\project1.ui", self)
+        uic.loadUi("project.ui", self)
         # click logic for button
         self.pushButton.clicked.connect(self.clicked)
 

@@ -64,7 +64,7 @@ background-color:rgb(26, 60, 64);</string>
      <string notr="true">background-color:rgb(26, 60, 64);
 
 
-image: url(:/new profile/6.png);</string>
+image: url(:/file/6.png);</string>
     </property>
     <property name="text">
      <string/>
@@ -80,7 +80,7 @@ image: url(:/new profile/6.png);</string>
      </rect>
     </property>
     <property name="styleSheet">
-     <string notr="true">image: url(:/new profile/8.png);
+     <string notr="true">image: url(C:\Users\samsa\OneDrive\Documents\GitHub\motion_capture\file\8.png);
 background-color:rgb(26, 60, 64);</string>
     </property>
     <property name="text">
